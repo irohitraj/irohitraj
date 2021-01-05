@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605478401/10874/cool_cowboy.png?1605478401" width="30"/> Hey, Rohit Raj here.</h1>
 
-<p>Welcome to my Funplace! </br> I'm a Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>India with a professional experience of 1+ year.</b></p>
+<p>Welcome to my Funplace! </br> I'm a Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>India</b> with a professional experience of 1+ year.</p>
 <p>
 
 <!--
