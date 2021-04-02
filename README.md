@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:** 
 
-<code><img align="left" alt="Pycharm" width="26px" height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"></code>
+<code><img align="left" alt="Pycharm" width="26px" height="20" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d"></code>
 <code><img align="left" alt="Jupyter" width="26px" height="20" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg"></code>
 <code><img align="left" alt="Python" width="26px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img align="left" alt="MySQL" width="26px" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
