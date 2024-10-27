@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursuing my Masters at University of Utah, SLC, UT, US
 - 🌱 I’m currently Computer Vision and working on some NLP Projects
 - 👯 I’m looking to collaborate on Machine Learning/Deep Learning research.
-- 🤔 I have prior experience with ML Hackathons. I’m currently looking for similar minded folks to attempt more Hackathons
+- 🤔 I have prior experience with ML Hackathons. I’m currently looking for like minded folks to attempt more Hackathons
 - 💬 Ask me about anything!! Happy to Help :) 
-- ⚡ Fun fact: I am an Otaku and I play Drums/Cajon. It took a pandemic for me to realise that I have a github account and my Masters degree to revive I 😵‍💫
+- ⚡ Fun fact: I am an Otaku and I play Drums/Cajon. It took a pandemic for me to realize that I have a GitHub account and my Masters degree to revive I 😵‍💫
 
 
 **Languages and Tools:** 
