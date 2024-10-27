@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605478401/10874/cool_cowboy.png?1605478401" width="30"/> Hey, Rohit Raj here.</h1>
 
-<p>Welcome to my Funplace! </br> I'm a Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>India</b> with a professional experience of 2 years.</p>
+<p>Welcome to my Funplace! </br> I'm a Data Scientist from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>India</b> with a professional experience of 5+ years.</p>
 <p>
 
 <!--
@@ -9,12 +9,12 @@
 Here are some ideas to get you started:
 -->
 **Quick Intro:**
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently learning Machine Learning, Deep Learning, NLP
-- 👯 I’m looking to collaborate on some Machine Learning and Deep learning Projects.Let's first start with doing some Hackathons together
-- 🤔 I’m looking for help with some NLP and Computer Vision resources to attempt Hackathons
+- 🔭 I’m currently pursuing my Masters at University of Utah, SLC, UT, US
+- 🌱 I’m currently Computer Vision and working on some NLP Projects
+- 👯 I’m looking to collaborate on Machine Learning/Deep Learning research.
+- 🤔 I have prior experience with ML Hackathons. I’m currently looking for similar minded folks to attempt more Hackathons
 - 💬 Ask me about anything!! Happy to Help :) 
-- ⚡ Fun fact: I am an Otaku and I play Drums/Cajon. It took a pandemic for me to realise that I have a github account
+- ⚡ Fun fact: I am an Otaku and I play Drums/Cajon. It took a pandemic for me to realise that I have a github account and my Masters degree to revive I 😵‍💫
 
 
 **Languages and Tools:** 
