@@ -124,7 +124,6 @@ I recently completed my **MS in Computing — Artificial Intelligence Track at t
   </a>
 
   <a href="https://github.com/irohitraj/GenAI_Projects/tree/main/Semantic%20Book%20recommender">
-    <img src="https://img.shields.io/badge/RAG%20Book%20Recommender-HuggingFace%20%7C%20LangChain%20%7C%20Gradio-1D9E75?style=for-the-badge" />
   </a>
 </p>
     </td>
