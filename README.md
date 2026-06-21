@@ -97,7 +97,7 @@ Multi-agent GenAI system that recommends music from images using a RAG Pipeline 
 
 ### Guardrail Damage Detection
 
-Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP.Also suhhested method to reduce false positives
+Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP. Also suggested a method to reduce false positives
 
 **Stack:** PyTorch · Faster R-CNN · Computer Vision · Fine-tuning
 
@@ -139,7 +139,7 @@ RAG-based book recommender that suggests books from user-provided topics, catego
 
 ### Coronary Vessel Segmentation
 
-U-Net based semantic segmentation model for coronary vessel trees from X-ray coronary angiography images, achieving up to 0.64 mIoU.
+U-Net-based semantic segmentation model for coronary vessel trees from X-ray coronary angiography images, achieving up to 0.64 mIoU.
 
 **Stack:** PyTorch · U-Net · Medical Imaging · Segmentation · CV
 
