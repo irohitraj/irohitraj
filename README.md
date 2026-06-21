@@ -71,78 +71,94 @@ I recently completed my **MS in Computing — Artificial Intelligence Track at t
 
 ## Featured projects
 
+## Featured Projects
+
 <table>
   <tr>
-    <td width="50%">
-  <h3>Agentic Music Recommender</h3>
-  <p>
-    Multi-agent GenAI system that recommends music from images. It uses vision-language reasoning to understand visual context and generate track recommendations without relying on user listening history.
-  </p>
-  <p>
-    <b>Stack:</b> LangChain · RAG · Agents · Vector DB · Multimodal GenAI
-  </p>
+    <td width="50%" valign="top" align="center">
 
-  <a href="https://github.com/NihalKarne/Agent_MapTune">
-    <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+### Agentic Music Recommender
 
-  <br/><br/>
+Multi-agent GenAI system that recommends music from images. It uses vision-language reasoning to understand visual context and generate track recommendations without relying on user listening history.
 
-  <a href="https://github.com/NihalKarne/Agent_MapTune">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NihalKarne&repo=Agent_MapTune&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" />
-  </a>
-</td>
-    <td width="50%">
-      <h3>Guardrail Damage Detection</h3>
-      <p>
-        Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP.
-      </p>
-      <p>
-        <b>Stack:</b> PyTorch · Faster R-CNN · Computer Vision · Fine-tuning
-      </p>
-      <a href="https://github.com/sonny-jones/BlyncsySFT">
-    <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" alt="View Guardrail Damage Detection" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/sonny-jones/BlyncsySFT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonny-jones&repo=BlyncsySFT&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" alt="Guardrail Damage Detection repo card" />
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Semantic Book Recommender</h3>
-      <p>
-        RAG-based book recommender that suggests books from user-provided topics, categories, and sentiment preferences using embeddings and a Gradio interface.
-      </p>
-      <p>
-        <b>Stack:</b> RAG · LLMs · LangChain · Hugging Face · Gradio · Python
-      </p>
-      <p>
-  <a href="https://github.com/irohitraj/GenAI_Projects/tree/main/Semantic%20Book%20recommender">
-    <img src="https://img.shields.io/badge/View%20Source%20Code-185FA5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+**Stack:** LangChain · RAG · Agents · Vector DB · Multimodal GenAI
 
-  <a href="https://github.com/irohitraj/GenAI_Projects/tree/main/Semantic%20Book%20recommender">
-  </a>
-</p>
-    </td>
-    <td width="50%">
-      <h3>Coronary Vessel Segmentation</h3>
-      <p>
-        U-Net based semantic segmentation model for coronary vessel trees from X-ray coronary angiography images, achieving up to 0.64 mIoU.
-      </p>
-      <p>
-        <b>Stack:</b> PyTorch · U-Net · Medical Imaging · Segmentation · Computer Vision
-      </p>
-      <a href="https://github.com/irohitraj/Computer-Vision/tree/main/U-Net_Segmentation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irohitraj&repo=Computer-Vision&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" alt="Computer Vision repository" />
+<a href="https://github.com/NihalKarne/Agent_MapTune">
+  <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-    </td>
+
+<br/><br/>
+
+<a href="https://github.com/NihalKarne/Agent_MapTune">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NihalKarne&repo=Agent_MapTune&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" />
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Guardrail Damage Detection
+
+Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP.
+
+**Stack:** PyTorch · Faster R-CNN · Computer Vision · Fine-tuning
+
+<a href="https://github.com/sonny-jones/BlyncsySFT">
+  <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sonny-jones/BlyncsySFT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonny-jones&repo=BlyncsySFT&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" />
+</a>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" align="center">
+
+### Semantic Book Recommender
+
+RAG-based book recommender that suggests books from user-provided topics, categories, and sentiment preferences using embeddings and a Gradio interface.
+
+**Stack:** RAG · LLMs · LangChain · Hugging Face · Gradio · Python
+
+<a href="https://github.com/irohitraj/GenAI_Projects/tree/main/Semantic%20Book%20recommender">
+  <img src="https://img.shields.io/badge/View%20Source%20Code-185FA5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/irohitraj/GenAI_Projects/tree/main/Semantic%20Book%20recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irohitraj&repo=GenAI_Projects&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" />
+</a>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Coronary Vessel Segmentation
+
+U-Net based semantic segmentation model for coronary vessel trees from X-ray coronary angiography images, achieving up to 0.64 mIoU.
+
+**Stack:** PyTorch · U-Net · Medical Imaging · Segmentation · Computer Vision
+
+<a href="https://github.com/irohitraj/Computer-Vision/tree/main/U-Net_Segmentation">
+  <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/irohitraj/Computer-Vision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irohitraj&repo=Computer-Vision&hide_border=true&bg_color=ffffff&title_color=185FA5&text_color=24292F&icon_color=1D9E75" />
+</a>
+
+</td>
   </tr>
 </table>
 
----
 
 ## Experience snapshot
 
@@ -217,15 +233,13 @@ Happy to connect — whether it’s about a role, a collaboration, or just talki
 
 <p align="center">
   <a href="mailto:rohitrraj284@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rohitrraj284%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohit" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rohitraj97/">
-    <img src="https://img.shields.io/badge/LinkedIn-rohitraj97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rohit Raj" />
-  </a>
-  <a href="https://github.com/irohitraj">
-    <img src="https://img.shields.io/badge/GitHub-irohitraj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub irohitraj" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:185FA5&height=90&section=footer" alt="Footer" />
