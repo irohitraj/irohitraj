@@ -208,6 +208,54 @@ Highlights:
 
 ---
 
+
+## Contribution Activity
+
+![Snake animation](https://raw.githubusercontent.com/irohitraj/irohitraj/output/github-snake.svg)
+
+<details>
+<summary>⚙️ How to enable the snake (one-time setup)</summary>
+
+1. In your profile repo (`irohitraj/irohitraj`), create `.github/workflows/snake.yml`
+2. Paste this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: irohitraj
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to Actions tab → run the workflow manually once → the snake will appear above.
+
+</details>
+
+---
+
+
+
+
+
+
 ## What I’m working on now
 
 - Building stronger **RAG systems** and practical **AI agent workflows**
