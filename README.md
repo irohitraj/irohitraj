@@ -69,8 +69,6 @@ I recently completed my **MS in Computing — Artificial Intelligence Track at t
 
 ---
 
-## Featured projects
-
 ## Featured Projects
 
 <table>
@@ -79,7 +77,7 @@ I recently completed my **MS in Computing — Artificial Intelligence Track at t
 
 ### Agentic Music Recommender
 
-Multi-agent GenAI system that recommends music from images. It uses vision-language reasoning to understand visual context and generate track recommendations without relying on user listening history.
+Multi-agent GenAI system that recommends music from images using a RAG Pipeline with multi-agent system. It uses vision-language reasoning to understand visual context and generate track recommendations by relying rules from the Knowledge Base.
 
 **Stack:** LangChain · RAG · Agents · Vector DB · Multimodal GenAI
 
@@ -99,7 +97,7 @@ Multi-agent GenAI system that recommends music from images. It uses vision-langu
 
 ### Guardrail Damage Detection
 
-Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP.
+Fine-tuned Faster R-CNN to detect guardrail damage from dashcam images. Applied Focal Loss for class imbalance and evaluated model performance using GIoU and mAP.Also suhhested method to reduce false positives
 
 **Stack:** PyTorch · Faster R-CNN · Computer Vision · Fine-tuning
 
@@ -143,7 +141,7 @@ RAG-based book recommender that suggests books from user-provided topics, catego
 
 U-Net based semantic segmentation model for coronary vessel trees from X-ray coronary angiography images, achieving up to 0.64 mIoU.
 
-**Stack:** PyTorch · U-Net · Medical Imaging · Segmentation · Computer Vision
+**Stack:** PyTorch · U-Net · Medical Imaging · Segmentation · CV
 
 <a href="https://github.com/irohitraj/Computer-Vision/tree/main/U-Net_Segmentation">
   <img src="https://img.shields.io/badge/View%20Project-185FA5?style=for-the-badge&logo=github&logoColor=white" />
